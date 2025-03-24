@@ -13,3 +13,6 @@ def model3():
 
 def model4():
     print("Adding ML Model 4")
+
+
+print("Model 2 is performing best, so we will use this")
